@@ -55,7 +55,3 @@ Make sure to replace "your_db_hostname", "your_db_name", "your_db_username", "yo
 - Adding movie sessions
 - Filtering movies and movie sessions
 
-
-    # cinema-drf-api
-# cinema-drf-ap
-# cinema-drf-api
