@@ -17,11 +17,11 @@
         pip install -r requirements.txt
         Set up environment variables for the database connection and secret key:
 
-set DB_HOST= your_db_hostname
-set DB_NAME= your_db_name
-set DB_USER= your_db_username
-set DB_PASSWORD= your_db_user_password
-set SECRET_KEY= your_secret_key
+set DB_HOST= your_db_hostname  
+set DB_NAME= your_db_name  
+set DB_USER= your_db_username  
+set DB_PASSWORD= your_db_user_password  
+set SECRET_KEY= your_secret_key  
 
 ## Run database migrations:
 
