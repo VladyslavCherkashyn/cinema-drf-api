@@ -30,9 +30,6 @@ set SECRET_KEY= your_secret_key
 ## Start the development server:
 
     python manage.py runserver
-	
-Make sure to replace "your_db_hostname", "your_db_name", "your_db_username", "your_db_user_password",  and "your_secret_key" with your actual values.
-
 
 # Cinema API Installation via Docker:
 - just run this two commands:
